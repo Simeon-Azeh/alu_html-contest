@@ -33,5 +33,5 @@ Belinda Larose: b.larose@alustudent.com,
 Gnon Deolinda Bogore: g.bogore@alustudent.com and 
 Simeon Kangnyuy: s.kongnyuy@alustudent.com
 
-Contact Us
+
 If you have any questions, suggestions, or feedback, feel free to reach out to any of us directly via email. We'd love to hear from you!
