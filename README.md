@@ -27,10 +27,10 @@ About: Learn more about the mission, vision, and goals of AlumniHub.
 
 Contact: Reach out to any of us directly via email:
 
-Afsa Umutoniwase: a.umutoniwa@alustudent.com
-Nicolle Marizani: n.marizani@alustudent.com
-Belinda Larose: b.larose@alustudent.com
-Gnon Deolinda Bogore: g.bogore@alustudent.com
+Afsa Umutoniwase: a.umutoniwa@alustudent.com,
+Nicolle Marizani: n.marizani@alustudent.com,
+Belinda Larose: b.larose@alustudent.com,
+Gnon Deolinda Bogore: g.bogore@alustudent.com and 
 Simeon Kangnyuy: s.kongnyuy@alustudent.com
 
 Contact Us
