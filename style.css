@@ -386,7 +386,7 @@ button:hover span:after {
 .grid .card__img {
     display: block;
     width: 100%;
-    height: 10rem;
+    height: 20rem;
     /* Reduced card image height */
     object-fit: cover;
 }
